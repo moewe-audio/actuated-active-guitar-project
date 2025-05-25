@@ -1,0 +1,4 @@
+matplotlib
+scipy
+control
+librosa
